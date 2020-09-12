@@ -1,0 +1,18 @@
+@media screen and (max-width: 959px) {
+    #hide__790{
+        display: none !important;
+    }
+    #form__cont__responsive{
+        width: 100vh !important;
+    }
+}
+@media screen and (max-width: 464px) {
+    .auth__input{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 312px) {
+    .auth__input{
+        width: 100%;
+    }
+}
